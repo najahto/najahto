@@ -1,5 +1,10 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm NAJAH Taha Omar</h1>
 
+<img align="center" src="./banner-01.png" />
+
+</br>
+</br>
+
 I'm a multidisciplinary developer and designer(sometimes) with a passion for creating engaging, entertaining user experiences. ✨
 I recently graduated from Sultan Moulay Slimane Universit with a Master's degree specialized in Computer System Engineering.
 
