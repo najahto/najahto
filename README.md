@@ -1,5 +1,13 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm NAJAH Taha Omar</h1>
 
+I'm a multidisciplinary developer and designer(sometimes) with a passion for creating engaging, entertaining user experiences. ✨
+I recently graduated from Sultan Moulay Slimane Universit with a Master's degree specialized in Computer System Engineering.
+
+I'm trying to push my skills to the limit. My interests include joining an exciting team of passionate people, personal growth, and making silly faces.
+
+Currently searching for a job opportunity as a junior Full stack web developer. 
+        
+When I am not coding, I am either playing video games, soccer. Other times I am reading or learning a new language or framework.
 
 ## Reach me at:
 <p>
