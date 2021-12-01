@@ -8,8 +8,6 @@ I'm a multidisciplinary developer and designer(sometimes) with a passion for cre
 I recently graduated from Sultan Moulay Slimane Universit with a Master's degree specialized in Computer System Engineering.
 
 I'm trying to push my skills to the limit. My interests include joining an exciting team of passionate people and personal growth.
-
-Currently searching for a job opportunity as a junior Full stack web developer. 
         
 When I am not coding, I am either playing video games, soccer. Other times I am reading or learning a new language or framework.
 
