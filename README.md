@@ -1,14 +1,24 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm NAJAH Taha Omar</h1>
 
-<img align="center" src="./banner-01.png" />
+<h2> Greetings Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-</br>
+<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
 
-I'm a multidisciplinary developer and designer(sometimes) with a passion for creating engaging, entertaining user experiences.  ✨
-I recently graduated from Sultan Moulay Slimane Universit with a Master's degree specialized in Computer System Engineering.
+<p>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython">
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+</p> 
+<h3>I am NAJAH Taha Omar 💚</h3> 
 
-I'm trying to push my skills to the limit. My interests include joining an exciting team of passionate people and personal growth.
-        
+
+I'm a Mobile developer and designer(sometimes) with a passion for creating engaging, entertaining user experiences. ✨ I recently graduated from Sultan Moulay Slimane Universit with a Master's degree in Computer System Engineering.
+
 When I am not coding, I am either playing video games, soccer. Other times I am reading or learning a new language or framework.
 
 ## Reach me at:
@@ -23,19 +33,3 @@ When I am not coding, I am either playing video games, soccer. Other times I am 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
 </p>
-
-
-<!--
-**najahto/najahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
