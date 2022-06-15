@@ -1,5 +1,5 @@
 
-<h2> Greetings Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"></h2>
+<h2> Greetings Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" height="26px"></h2>
 
 <img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
 
