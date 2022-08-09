@@ -17,7 +17,7 @@
 <h3>I am NAJAH Taha Omar 💚</h3> 
 
 
-I'm a Mobile developer and designer(sometimes) with a passion for creating engaging, entertaining user experiences. ✨ I recently graduated with a Master's degree in Computer System Engineering.
+I'm a Mobile developer and designer(sometimes) with a deep knowledge of Object Oriented Programming. Focusing on designing, building, developing and deploying mobile applications using stable cutting edge methodologies and technologies. I recently graduated with a Master's degree in Computer System Engineering.
 
 When I am not coding, I am either playing video games, soccer. Other times I am reading or learning a new language or framework.
 
