@@ -7,17 +7,12 @@
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-<a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython">
-<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p> 
 <h3>I am NAJAH Taha Omar 💚</h3> 
 
 
-I'm a Mobile developer and designer(sometimes) with a deep knowledge of Object Oriented Programming. Focusing on designing, building, developing and deploying mobile applications using stable cutting edge methodologies and technologies. I recently graduated with a Master's degree in Computer System Engineering.
+I'm a Mobile developer and designer(sometimes) who is passionate about developing apps that solves the real-world problems of people. focusing on writing hight-quality code for apps development and user-friendly interfaces.
 
 When I am not coding, I am either playing video games, soccer. Other times I am reading or learning a new language or framework.
 
